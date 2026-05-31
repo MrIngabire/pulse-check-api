@@ -21,7 +21,7 @@ This project requires **Python 3.8+**.
 
 1. **Clone the repository:**
    ```bash
-   git clone YOUR_GITHUB_REPO_LINK_HERE
+   git clone https://github.com/MrIngabire/pulse-check-api.git
    cd pulse-check-api
    ```
 
